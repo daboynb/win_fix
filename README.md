@@ -16,7 +16,7 @@ Powershell script that :</br>
    - Remove onedrive
    - Enable dark mode
 
-There's a block of code that remove edge too, uncomment it if you want.
+There's a commented block of code that remove edge too, uncomment it to remove the browser.
 
  # Before run 
 
